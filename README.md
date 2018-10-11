@@ -1,5 +1,5 @@
 # KamusGaul
-Contoh Aplikasi Dengan Kamus Gaul API. Open-Source Project, bisa diambil sebagai pelajaran, jangan lupa sertakan sumbernya
+Contoh Aplikasi Dengan [Kamus Gaul API](https://kitabgaul.com/api/). Open-Source Project, bisa diambil sebagai pelajaran, jangan lupa sertakan sumbernya
 Readme.md LatihanMVP
 
 ---
