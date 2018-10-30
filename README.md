@@ -3,13 +3,13 @@ Contoh Projek Aplikasi Dengan [Kamus Gaul API](https://kitabgaul.com/api/). Open
 Readme.md KamusGaul
 
 ---
-## Screenshot
+## Screenshot Project
 
 ![1](https://raw.githubusercontent.com/farrasdoko/KamusGaul/master/Example.png)
 
 ---
 
-## Contact
+## Contact Me
 
 * Instagram : [farrasdoko](https://instagram.com/farrasdoko)
 * facebook : [farrasdoko](https://facebook.com/farras.abiyyu.31)
